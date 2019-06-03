@@ -10,7 +10,7 @@
 ## Known Bugs
 {If the dimensions entered dont run to bring about a result,then simply refresh the page. }
 ## Technologies Used
-{HTML,css}
+{HTML,css,javascript.}
 ## Support and contact details
 {If user runs into a problem or would like to make contribution, contact the email address, saidnimo123@gmail.com}
 ### License
